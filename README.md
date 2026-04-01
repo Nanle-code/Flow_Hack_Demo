@@ -1,5 +1,7 @@
 ## 👋 Welcome Flow Developer!
 
+> **🚀 Important Updates!** We have recently solved a major 18-Decimals Precision Interoperability bug directly through our custom FlowKit SDK. Check out the full **[FlowKit Precision Solution Report](./FlowKit_Report.md)** detailing the architectural workflow, integration pipeline, and visual WebP demo!
+
 This project is a starting point for you to develop smart contracts on the Flow Blockchain. It comes with example contracts, scripts, transactions, and tests to help you get started.
 
 ## 🔨 Getting Started
